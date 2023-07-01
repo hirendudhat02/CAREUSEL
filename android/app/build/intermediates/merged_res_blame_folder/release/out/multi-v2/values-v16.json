@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.careusel.app-mergeReleaseResources-37:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/macmini/.gradle/caches/transforms-3/b4d73dc81acfd37be0446f9908e07bda/transformed/core-1.7.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/macmini/.gradle/caches/transforms-3/17ad1dfe54037c5de76e84d7b5c2f831/transformed/appcompat-1.4.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

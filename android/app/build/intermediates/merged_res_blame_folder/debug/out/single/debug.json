@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xxhdpi_bootsplash_logo.png.flat",
+        "source": "com.careusel.app-main-42:/mipmap-xxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xxxhdpi_bootsplash_logo.png.flat",
+        "source": "com.careusel.app-main-42:/mipmap-xxxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-mdpi_bootsplash_logo.png.flat",
+        "source": "com.careusel.app-main-42:/mipmap-mdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xhdpi_bootsplash_logo.png.flat",
+        "source": "com.careusel.app-main-42:/mipmap-xhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/drawable_appicon.xml.flat",
+        "source": "com.careusel.app-main-42:/drawable/appicon.xml"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/drawable_launch_screen.jpg.flat",
+        "source": "com.careusel.app-main-42:/drawable/launch_screen.jpg"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-hdpi_bootsplash_logo.png.flat",
+        "source": "com.careusel.app-main-42:/mipmap-hdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.careusel.app-main-42:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.careusel.app-debug-41:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

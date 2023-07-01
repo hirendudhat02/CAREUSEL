@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">354315440420-490lp7iv2ut4a9m6da8ue09jhkjlrq7i.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">354315440420</string>
+    <string name="google_api_key" translatable="false">AIzaSyCs3ctR7Ba5A6TBv8l4LyznS16k96UaRAo</string>
+    <string name="google_app_id" translatable="false">1:354315440420:android:86e7a910317e390e9923b1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCs3ctR7Ba5A6TBv8l4LyznS16k96UaRAo</string>
+    <string name="google_storage_bucket" translatable="false">careusel-32f3f.appspot.com</string>
+    <string name="project_id" translatable="false">careusel-32f3f</string>
+</resources>

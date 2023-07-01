@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.careusel.app-mergeDebugResources-38:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/macmini/.gradle/caches/transforms-3/17ad1dfe54037c5de76e84d7b5c2f831/transformed/appcompat-1.4.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

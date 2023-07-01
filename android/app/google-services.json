@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354315440420",
+    "project_id": "careusel-32f3f",
+    "storage_bucket": "careusel-32f3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354315440420:android:86e7a910317e390e9923b1",
+        "android_client_info": {
+          "package_name": "com.careusel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354315440420-490lp7iv2ut4a9m6da8ue09jhkjlrq7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs3ctR7Ba5A6TBv8l4LyznS16k96UaRAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354315440420-490lp7iv2ut4a9m6da8ue09jhkjlrq7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

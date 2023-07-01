@@ -1,0 +1,814 @@
+[
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_emojimartnative_dist_assets_emojiicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_emojimartnative_dist_assets_emojiicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_deleteicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_deleteicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_chats_cometchatconversationlist_resources_delete.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_chats_cometchatconversationlist_resources_delete.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_onboarding3.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_onboarding3.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_mailicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_mailicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/raw_src_cometchatproreactnativeuikit_cometchatworkspace_src_resources_audio_incomingothermessage.wav.flat",
+        "source": "com.careusel.app-react-34:/raw/src_cometchatproreactnativeuikit_cometchatworkspace_src_resources_audio_incomingothermessage.wav"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_chat.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_chat.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_splashassets_logo.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_splashassets_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_suitcaseicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_suitcaseicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-xhdpi_bootsplash_logo.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-xhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_shrink.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_shrink.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_facebookicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_facebookicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_splashassets_splashbg.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_splashassets_splashbg.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_erroricon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_erroricon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_emojimartnative_dist_assets_clearicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_emojimartnative_dist_assets_clearicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_checkeddeactive.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_checkeddeactive.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_expertcircleactiveicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_expertcircleactiveicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_shared_dropdownalert_resources_success.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_shared_dropdownalert_resources_success.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_attachementicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_attachementicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.careusel.app-main-40:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreadreceipt_resources_error.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreadreceipt_resources_error.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_back.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_back.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreceiverdirectcallbubble_resources_receivervideocall.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreceiverdirectcallbubble_resources_receivervideocall.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_back.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_back.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_chat.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_chat.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_checkeddeactive.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_checkeddeactive.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_instagram.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_instagram.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_onboarding1.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_onboarding1.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-xxhdpi_bootsplash_logo.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-xxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_expertteamicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_expertteamicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatsenderdirectcallbubble_resources_sendervideocall.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatsenderdirectcallbubble_resources_sendervideocall.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_emojimartnative_dist_assets_arrowbackdark.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_emojimartnative_dist_assets_arrowbackdark.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_play.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_play.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_checkedcircle.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_checkedcircle.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_editprofileicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_editprofileicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreadreceipt_resources_sending.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreadreceipt_resources_sending.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreadreceipt_resources_bluedoubletickicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreadreceipt_resources_bluedoubletickicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_expand.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_expand.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_changepasswordicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_changepasswordicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_deletesquareicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_deletesquareicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_eye.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_eye.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_closecopy2.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_closecopy2.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_filter.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_filter.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_connectionsactiveicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_connectionsactiveicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_shared_dropdownalert_resources_close.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_shared_dropdownalert_resources_close.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_careuselcircleicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_careuselcircleicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_radiodeacitvebutton.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_radiodeacitvebutton.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_denidewithsqaure.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_denidewithsqaure.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-hdpi_bootsplash_logo.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-hdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_videocamera.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_videocamera.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_checkedactive.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_checkedactive.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_onboradingmsg.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_onboradingmsg.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_groups_cometchataddgroupmemberlistitem_resources_checkboxinactive.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_groups_cometchataddgroupmemberlistitem_resources_checkboxinactive.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_emojimartnative_dist_assets_arrowback.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_emojimartnative_dist_assets_arrowback.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_searchwhiteicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_searchwhiteicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_pause.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_pause.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_gallery.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_gallery.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_tick.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_tick.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_profile.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_profile.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_rotationicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_rotationicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_emojimartnative_dist_assets_arrowbackdark.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_emojimartnative_dist_assets_arrowbackdark.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_loadericon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_loadericon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_pencilicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_pencilicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/raw_src_cometchatproreactnativeuikit_cometchatworkspace_src_resources_audio_outgoingcall.wav.flat",
+        "source": "com.careusel.app-react-34:/raw/src_cometchatproreactnativeuikit_cometchatworkspace_src_resources_audio_outgoingcall.wav"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_emojimartnative_dist_assets_clearicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_emojimartnative_dist_assets_clearicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_play.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_play.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_shared_dropdownalert_resources_error.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_shared_dropdownalert_resources_error.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_instagramicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_instagramicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_profile.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_profile.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_inviteusericon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_inviteusericon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_onboradingform.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_onboradingform.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_profileactiveicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_profileactiveicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_onboarding2.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_onboarding2.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_groups_cometchatbangroupmemberlistitem_resources_block.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_groups_cometchatbangroupmemberlistitem_resources_block.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_shrink.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_shrink.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_filtericon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_filtericon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_loadericon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_loadericon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_conversationsiconactive.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_conversationsiconactive.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_emojimartnative_dist_assets_clearicondark.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_emojimartnative_dist_assets_clearicondark.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_close.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_close.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreadreceipt_resources_greytickicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreadreceipt_resources_greytickicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_back.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_back.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_emojimartnative_dist_assets_clearicondark.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_emojimartnative_dist_assets_clearicondark.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_inviteusericon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_inviteusericon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_bottomvignette.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_emojimartnative_dist_assets_clearicondark.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_emojimartnative_dist_assets_clearicondark.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/raw_src_cometchatproreactnativeuikit_cometchatworkspace_src_resources_audio_incomingmessage.wav.flat",
+        "source": "com.careusel.app-react-34:/raw/src_cometchatproreactnativeuikit_cometchatworkspace_src_resources_audio_incomingmessage.wav"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_erroricon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_erroricon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable_launch_screen.jpg.flat",
+        "source": "com.careusel.app-main-40:/drawable/launch_screen.jpg"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_nodataicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_nodataicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_topvignette.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_topvignette.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_watermark.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_watermark.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_onboradingmsg.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_onboradingmsg.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_topvignette.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_topvignette.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_suitcaseicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_suitcaseicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_emojimartnative_dist_assets_emojiicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_emojimartnative_dist_assets_emojiicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_back.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_back.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_back.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_back.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_bottomvignette.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_emojimartnative_dist_assets_arrowback.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_emojimartnative_dist_assets_arrowback.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_nextarrow.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_nextarrow.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_shrink.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_shrink.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatmessageheader_resources_audiocall.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatmessageheader_resources_audiocall.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_pushnotification.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_pushnotification.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/raw_src_cometchatproreactnativeuikit_cometchatworkspace_src_resources_audio_outgoingmessage.wav.flat",
+        "source": "com.careusel.app-react-34:/raw/src_cometchatproreactnativeuikit_cometchatworkspace_src_resources_audio_outgoingmessage.wav"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_arrowdown.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_arrowdown.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_file.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_file.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_splashassets_splashbg.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_splashassets_splashbg.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_pause.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_pause.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_birthdayicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_birthdayicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_logo.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_connectionrequesticon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_connectionrequesticon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_volume.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_volume.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-mdpi_bootsplash_logo.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-mdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_calls_cometchatincomingcall_resources_incomingvideocall.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_calls_cometchatincomingcall_resources_incomingvideocall.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_calls_cometchatincomingcall_resources_incomingaudiocall.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_calls_cometchatincomingcall_resources_incomingaudiocall.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_facebook.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_facebook.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_emojimartnative_dist_assets_clearicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_emojimartnative_dist_assets_clearicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_eye.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_eye.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_calls_cometchatincomingdirectcall_resources_incomingvideocall.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_calls_cometchatincomingdirectcall_resources_incomingvideocall.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_onboradingalert.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_onboradingalert.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_splashassets_logo.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_splashassets_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_watermark.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_watermark.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_bottomvignette.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_checkedactive.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_checkedactive.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_editicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_editicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_filtericon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_filtericon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_onboradingform.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_onboradingform.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/raw_src_cometchatproreactnativeuikit_cometchatworkspace_src_resources_audio_incomingcall.wav.flat",
+        "source": "com.careusel.app-react-34:/raw/src_cometchatproreactnativeuikit_cometchatworkspace_src_resources_audio_incomingcall.wav"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_logo.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_loadericon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_loadericon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_callicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_callicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatmessageheader_resources_videocall.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatmessageheader_resources_videocall.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_mainimg.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_mainimg.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_emojimartnative_dist_assets_arrowbackdark.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_emojimartnative_dist_assets_arrowbackdark.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatmessageheader_resources_detailpane.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatmessageheader_resources_detailpane.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_search.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_search.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_splashassets_logotext.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_splashassets_logotext.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_inviteuser.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_inviteuser.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_tick.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_tick.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_hideeye.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_hideeye.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_mainimg.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_mainimg.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_volume.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_volume.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_tickwithsqaure.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_tickwithsqaure.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_extensions_cometchatcreatepoll_resources_add.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_extensions_cometchatcreatepoll_resources_add.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_splashassets_logo.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_splashassets_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_user.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_user.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_nodata.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_nodata.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_play.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_play.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_chaticon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_chaticon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_radiobuttonactive.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_radiobuttonactive.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_filter.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_filter.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_radiodeacitvebutton.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_radiodeacitvebutton.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_calls_cometchatincomingdirectcall_resources_incomingaudiocall.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_calls_cometchatincomingdirectcall_resources_incomingaudiocall.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_search.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_search.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_profileicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_profileicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_onboradingalert.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_onboradingalert.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_emojimartnative_dist_assets_arrowback.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_emojimartnative_dist_assets_arrowback.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_splashassets_splashbg.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_splashassets_splashbg.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_sendwithcircleicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_sendwithcircleicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_expand.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_expand.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_hideeye.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_hideeye.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_users_cometchatuserprofile_resources_clear.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_users_cometchatuserprofile_resources_clear.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-xxxhdpi_bootsplash_logo.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-xxxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreadreceipt_resources_greydoubletickicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_cometchatreadreceipt_resources_greydoubletickicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_pushnotification.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_pushnotification.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_src_assets_images_inviteuser.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/src_assets_images_inviteuser.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_extensions_cometchatmessagereactions_resources_addreaction.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_extensions_cometchatmessagereactions_resources_addreaction.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_expand.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_expand.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_splashscreen.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_splashscreen.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable_appicon.xml.flat",
+        "source": "com.careusel.app-main-40:/drawable/appicon.xml"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_extensions_cometchatcreatepolloptions_resources_remove.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_messages_extensions_cometchatcreatepolloptions_resources_remove.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_topvignette.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_topvignette.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_node_modules_emojimartnative_dist_assets_emojiicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/node_modules_emojimartnative_dist_assets_emojiicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_happy.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_happy.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_erroricon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_erroricon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_volume.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_volume.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_pause.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_pause.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_assets_images_locationicon.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_assets_images_locationicon.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-xhdpi_src_assets_images_radiobuttonactive.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-xhdpi/src_assets_images_radiobuttonactive.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/drawable-mdpi_src_cometchatproreactnativeuikit_cometchatworkspace_src_components_groups_cometchataddgroupmemberlistitem_resources_checkboxblueactive.png.flat",
+        "source": "com.careusel.app-react-34:/drawable-mdpi/src_cometchatproreactnativeuikit_cometchatworkspace_src_components_groups_cometchataddgroupmemberlistitem_resources_checkboxblueactive.png"
+    },
+    {
+        "merged": "com.careusel.app-merged_res-39:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.careusel.app-main-40:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

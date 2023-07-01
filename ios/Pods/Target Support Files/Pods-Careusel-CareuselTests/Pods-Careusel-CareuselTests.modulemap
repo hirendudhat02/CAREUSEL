@@ -1,0 +1,6 @@
+module Pods_Careusel_CareuselTests {
+  umbrella header "Pods-Careusel-CareuselTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,628 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.careusel"
+4    android:versionCode="6"
+5    android:versionName="1.0.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:4:3-65
+11-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:4:20-62
+12    <uses-permission android:name="android.permission.VIBRATE" />
+12-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:5:3-64
+12-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:5:20-61
+13    <!--
+14  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16    -->
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:8:3-78
+17-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:8:20-75
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:9:3-79
+18-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:9:20-76
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:10:3-63
+19-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:10:20-60
+20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+20-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:11:3-75
+20-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:11:20-72
+21    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+21-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:12:3-76
+21-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:12:20-73
+22    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+22-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:13:3-86
+22-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:13:20-83
+23
+24    <uses-feature android:name="android.hardware.camera" />
+24-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:14:3-58
+24-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:14:17-55
+25    <uses-feature android:name="android.hardware.camera.autofocus" />
+25-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:15:3-68
+25-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:15:17-65
+26
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->[:react-native-community_netinfo] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-79
+27-->[:react-native-community_netinfo] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-76
+28    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+28-->[:react-native-community_netinfo] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-76
+28-->[:react-native-community_netinfo] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-73
+29    <uses-permission android:name="android.permission.WAKE_LOCK" />
+29-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-68
+29-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-65
+30
+31    <queries>
+31-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-13:15
+32        <intent>
+32-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-12:18
+33            <action android:name="android.media.action.IMAGE_CAPTURE" />
+33-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-73
+33-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:21-70
+34        </intent>
+35    </queries> <!-- Required to access Google Play Licensing -->
+36    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+36-->[:rn-fetch-blob] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-73
+36-->[:rn-fetch-blob] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-70
+37    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+37-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:25:5-77
+37-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:25:22-74
+38    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+38-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:28:5-82
+38-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:28:22-79
+39    <uses-permission android:name="com.google.android.gms.permission.AD_ID" /> <!-- for android -->
+39-->[com.google.android.gms:play-services-measurement-api:21.2.1] /Users/macmini/.gradle/caches/transforms-3/caa467d9fc5ced182d5a0f2f6d8c871e/transformed/jetified-play-services-measurement-api-21.2.1/AndroidManifest.xml:25:5-79
+39-->[com.google.android.gms:play-services-measurement-api:21.2.1] /Users/macmini/.gradle/caches/transforms-3/caa467d9fc5ced182d5a0f2f6d8c871e/transformed/jetified-play-services-measurement-api-21.2.1/AndroidManifest.xml:25:22-76
+40    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+41    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+42    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+43    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+44    <!-- for Samsung -->
+45    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+45-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+45-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+46    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+46-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+46-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+47    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+47-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+47-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+48    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+48-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+48-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+49    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+49-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+49-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+50    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+50-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+50-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+51    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+51-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+51-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+52    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+52-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+52-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+53    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+53-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+53-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+54    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+54-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+54-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+55    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+55-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+55-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+56    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+56-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+56-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+57    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+57-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+57-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+58    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+58-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+58-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+59    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+59-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+59-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+60    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+60-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+60-->[me.leolin:ShortcutBadger:1.1.22] /Users/macmini/.gradle/caches/transforms-3/a43b0a5de1746e1493f489e7b6f6d56e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+61    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+61-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:26:5-110
+61-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:26:22-107
+62
+63    <application
+63-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:17:3-79:17
+64        android:name="com.careusel.MainApplication"
+64-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:18:5-36
+65        android:allowBackup="false"
+65-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:22:5-32
+66        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+66-->[androidx.core:core:1.7.0] /Users/macmini/.gradle/caches/transforms-3/b4d73dc81acfd37be0446f9908e07bda/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+67        android:extractNativeLibs="false"
+67-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:25:5-38
+68        android:hardwareAccelerated="true"
+68-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:26:5-39
+69        android:icon="@mipmap/ic_launcher"
+69-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:20:5-39
+70        android:label="@string/app_name"
+70-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:19:5-37
+71        android:requestLegacyExternalStorage="true"
+71-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:27:5-48
+72        android:roundIcon="@mipmap/ic_launcher_round"
+72-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:21:5-50
+73        android:theme="@style/AppTheme"
+73-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:23:5-36
+74        android:usesCleartextTraffic="true" >
+74-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:24:5-40
+75        <activity
+75-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:29:5-43:16
+76            android:name="com.careusel.MainActivity"
+76-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:30:7-35
+77            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+77-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:33:7-116
+78            android:exported="true"
+78-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:36:7-30
+79            android:label="@string/app_name"
+79-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:31:7-39
+80            android:launchMode="singleTask"
+80-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:34:7-38
+81            android:screenOrientation="portrait"
+81-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:32:7-43
+82            android:windowSoftInputMode="adjustResize" >
+82-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:35:7-49
+83            <intent-filter>
+83-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:38:7-42:23
+84                <action android:name="android.intent.action.MAIN" />
+84-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:39:9-61
+84-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:39:17-58
+85
+86                <category android:name="android.intent.category.LAUNCHER" />
+86-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:40:9-69
+86-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:40:19-66
+87
+88                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+88-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:41:9-74
+88-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:41:17-71
+89            </intent-filter>
+90        </activity>
+91
+92        <service
+92-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:45:5-51:15
+93            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+93-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:46:7-89
+94            android:exported="false" >
+94-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:47:7-31
+95            <intent-filter>
+95-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:48:7-50:23
+96                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+96-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:49:9-70
+96-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:49:17-67
+97            </intent-filter>
+98        </service>
+99
+100        <meta-data
+100-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:52:5-53:46
+101            android:name="com.google.firebase.messaging.default_notification_icon"
+101-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:52:16-86
+102            android:resource="@drawable/appicon" />
+102-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:53:7-43
+103        <meta-data
+103-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:54:5-56:31
+104            android:name="com.dieam.reactnativepushnotification.notification_foreground"
+104-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:55:7-83
+105            android:value="false" />
+105-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:56:7-28
+106
+107        <receiver
+107-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:57:5-58:34
+108            android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationActions"
+108-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:57:15-101
+109            android:exported="false" />
+109-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:58:7-31
+110        <receiver
+110-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:59:5-61:34
+111            android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher"
+111-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:60:7-95
+112            android:exported="false" />
+112-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:61:7-31
+113        <receiver
+113-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:62:5-70:16
+114            android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver"
+114-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:63:7-103
+115            android:exported="false" >
+115-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:64:7-31
+116            <intent-filter>
+116-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:65:7-69:23
+117                <action android:name="android.intent.action.BOOT_COMPLETED" />
+117-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:66:9-71
+117-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:66:17-68
+118                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+118-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:67:9-74
+118-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:67:17-71
+119                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+119-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:68:9-74
+119-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:68:17-71
+120            </intent-filter>
+121        </receiver>
+122
+123        <service
+123-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:71:5-77:15
+124            android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService"
+124-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:72:7-101
+125            android:exported="false" >
+125-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:73:7-31
+126            <intent-filter>
+126-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:48:7-50:23
+127                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+127-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:49:9-70
+127-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:49:17-67
+128            </intent-filter>
+129        </service>
+130
+131        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+131-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:78:5-82
+131-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:78:15-79
+132
+133        <service
+133-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-16:40
+134            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService"
+134-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-103
+135            android:exported="false" />
+135-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-37
+136
+137        <receiver
+137-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:9-32:20
+138            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+138-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-96
+139            android:exported="true"
+139-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-36
+140            android:permission="com.google.android.c2dm.permission.SEND" >
+140-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-73
+141            <intent-filter>
+141-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-31:29
+142                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+142-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:17-81
+142-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:25-78
+143            </intent-filter>
+144        </receiver>
+145
+146        <meta-data
+146-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:9-36:36
+147            android:name="firebase_messaging_auto_init_enabled"
+147-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-64
+148            android:value="true" />
+148-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-33
+149        <meta-data
+149-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:9-39:32
+150            android:name="com.google.firebase.messaging.default_notification_channel_id"
+150-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-89
+151            android:value="" />
+151-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:39:13-29
+152        <meta-data
+152-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:40:9-42:47
+153            android:name="com.google.firebase.messaging.default_notification_color"
+153-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:41:13-84
+154            android:resource="@color/white" />
+154-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:42:13-44
+155        <meta-data
+155-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-13:36
+156            android:name="app_data_collection_default_enabled"
+156-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-63
+157            android:value="true" />
+157-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-33
+158
+159        <service
+159-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:9-23:19
+160            android:name="com.google.firebase.components.ComponentDiscoveryService"
+160-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-84
+161            android:directBootAware="true"
+161-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-43
+162            android:exported="false" >
+162-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-37
+163            <meta-data
+163-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-22:85
+164                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+164-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:17-120
+165                android:value="com.google.firebase.components.ComponentRegistrar" />
+165-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-82
+166            <meta-data
+166-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:55:13-57:85
+167                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+167-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:56:17-119
+168                android:value="com.google.firebase.components.ComponentRegistrar" />
+168-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:57:17-82
+169            <meta-data
+169-->[com.google.android.gms:play-services-measurement-api:21.2.1] /Users/macmini/.gradle/caches/transforms-3/caa467d9fc5ced182d5a0f2f6d8c871e/transformed/jetified-play-services-measurement-api-21.2.1/AndroidManifest.xml:31:13-33:85
+170                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+170-->[com.google.android.gms:play-services-measurement-api:21.2.1] /Users/macmini/.gradle/caches/transforms-3/caa467d9fc5ced182d5a0f2f6d8c871e/transformed/jetified-play-services-measurement-api-21.2.1/AndroidManifest.xml:32:17-139
+171                android:value="com.google.firebase.components.ComponentRegistrar" />
+171-->[com.google.android.gms:play-services-measurement-api:21.2.1] /Users/macmini/.gradle/caches/transforms-3/caa467d9fc5ced182d5a0f2f6d8c871e/transformed/jetified-play-services-measurement-api-21.2.1/AndroidManifest.xml:33:17-82
+172            <meta-data
+172-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/macmini/.gradle/caches/transforms-3/65543b858898a4523a43d67cd04a8026/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+173                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+173-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/macmini/.gradle/caches/transforms-3/65543b858898a4523a43d67cd04a8026/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+174                android:value="com.google.firebase.components.ComponentRegistrar" />
+174-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/macmini/.gradle/caches/transforms-3/65543b858898a4523a43d67cd04a8026/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+175            <meta-data
+175-->[com.google.firebase:firebase-installations:17.1.3] /Users/macmini/.gradle/caches/transforms-3/ddf81cb0833a5f6695630c639153a30e/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:17:13-19:85
+176                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+176-->[com.google.firebase:firebase-installations:17.1.3] /Users/macmini/.gradle/caches/transforms-3/ddf81cb0833a5f6695630c639153a30e/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:18:17-127
+177                android:value="com.google.firebase.components.ComponentRegistrar" />
+177-->[com.google.firebase:firebase-installations:17.1.3] /Users/macmini/.gradle/caches/transforms-3/ddf81cb0833a5f6695630c639153a30e/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:19:17-82
+178        </service>
+179
+180        <provider
+180-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:9-29:38
+181            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+181-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-88
+182            android:authorities="com.careusel.reactnativefirebaseappinitprovider"
+182-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-86
+183            android:exported="false"
+183-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-37
+184            android:initOrder="99" />
+184-->[:react-native-firebase_app] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-35
+185
+186        <activity android:name="com.masteratul.exceptionhandler.DefaultErrorScreen" >
+186-->[:react-native-exception-handler] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-11:20
+186-->[:react-native-exception-handler] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:19-84
+187        </activity>
+188
+189        <provider
+189-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:9-26:20
+190            android:name="androidx.core.content.FileProvider"
+190-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-62
+191            android:authorities="com.careusel.provider"
+191-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-60
+192            android:exported="false"
+192-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-37
+193            android:grantUriPermissions="true" >
+193-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-47
+194            <meta-data
+194-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:58
+195                android:name="android.support.FILE_PROVIDER_PATHS"
+195-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-67
+196                android:resource="@xml/provider_paths" />
+196-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:17-55
+197        </provider>
+198
+199        <activity
+199-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-30:72
+200            android:name="com.yalantis.ucrop.UCropActivity"
+200-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-60
+201            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+201-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-69
+202
+203        <provider
+203-->[:react-native-image-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-18:20
+204            android:name="com.imagepicker.ImagePickerProvider"
+204-->[:react-native-image-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-63
+205            android:authorities="com.careusel.imagepickerprovider"
+205-->[:react-native-image-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-71
+206            android:exported="false"
+206-->[:react-native-image-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-37
+207            android:grantUriPermissions="true" >
+207-->[:react-native-image-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-47
+208            <meta-data
+208-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:58
+209                android:name="android.support.FILE_PROVIDER_PATHS"
+209-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-67
+210                android:resource="@xml/imagepicker_provider_paths" />
+210-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:17-55
+211        </provider>
+212        <provider
+212-->[:react-native-webview] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-18:20
+213            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+213-->[:react-native-webview] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-83
+214            android:authorities="com.careusel.fileprovider"
+214-->[:react-native-webview] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-64
+215            android:exported="false"
+215-->[:react-native-webview] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-37
+216            android:grantUriPermissions="true" >
+216-->[:react-native-webview] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-47
+217            <meta-data
+217-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:58
+218                android:name="android.support.FILE_PROVIDER_PATHS"
+218-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-67
+219                android:resource="@xml/file_provider_paths" />
+219-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:17-55
+220        </provider>
+221        <provider
+221-->[:rn-fetch-blob] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:9-42:20
+222            android:name="com.RNFetchBlob.Utils.FileProvider"
+222-->[:rn-fetch-blob] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-62
+223            android:authorities="com.careusel.provider"
+223-->[:rn-fetch-blob] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-60
+224            android:exported="false"
+224-->[:rn-fetch-blob] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-37
+225            android:grantUriPermissions="true" >
+225-->[:rn-fetch-blob] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-47
+226            <meta-data
+226-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:58
+227                android:name="android.support.FILE_PROVIDER_PATHS"
+227-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-67
+228                android:resource="@xml/provider_paths" />
+228-->[:react-native-image-crop-picker] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:17-55
+229        </provider>
+230
+231        <meta-data
+231-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/macmini/.gradle/caches/transforms-3/a827d36114a3967f1b7c383c844ce440/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:11:9-13:43
+232            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+232-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/macmini/.gradle/caches/transforms-3/a827d36114a3967f1b7c383c844ce440/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:12:13-84
+233            android:value="GlideModule" />
+233-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/macmini/.gradle/caches/transforms-3/a827d36114a3967f1b7c383c844ce440/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:13:13-40
+234
+235        <receiver
+235-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:31:9-38:20
+236            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+236-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:32:13-78
+237            android:exported="true"
+237-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:33:13-36
+238            android:permission="com.google.android.c2dm.permission.SEND" >
+238-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:34:13-73
+239            <intent-filter>
+239-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-31:29
+240                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+240-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:17-81
+240-->[:react-native-firebase_messaging] /Users/macmini/Desktop/Hepin/ClientMobileAPP-main/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:25-78
+241            </intent-filter>
+242        </receiver>
+243        <!--
+244             FirebaseMessagingService performs security checks at runtime,
+245             but set to not exported to explicitly avoid allowing another app to call it.
+246        -->
+247        <service
+247-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:44:9-51:19
+248            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+248-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:45:13-82
+249            android:directBootAware="true"
+249-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:46:13-43
+250            android:exported="false" >
+250-->[com.google.firebase:firebase-messaging:23.1.2] /Users/macmini/.gradle/caches/transforms-3/5b0500ae58c553fb9afe6af79b65c324/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:47:13-37
+251            <intent-filter android:priority="-500" >
+251-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:48:7-50:23
+252                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+252-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:49:9-70
+252-->/Users/macmini/Desktop/Hepin/ClientMobileAPP-main/android/app/src/main/AndroidManifest.xml:49:17-67
+253            </intent-filter>
+254        </service>
+255
+256        <provider
+256-->[com.google.firebase:firebase-common:20.3.2] /Users/macmini/.gradle/caches/transforms-3/b3025078cfe66c94c12adb566d3bd88f/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
+257            android:name="com.google.firebase.provider.FirebaseInitProvider"
+257-->[com.google.firebase:firebase-common:20.3.2] /Users/macmini/.gradle/caches/transforms-3/b3025078cfe66c94c12adb566d3bd88f/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:26:13-77
+258            android:authorities="com.careusel.firebaseinitprovider"
+258-->[com.google.firebase:firebase-common:20.3.2] /Users/macmini/.gradle/caches/transforms-3/b3025078cfe66c94c12adb566d3bd88f/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:27:13-72
+259            android:directBootAware="true"
+259-->[com.google.firebase:firebase-common:20.3.2] /Users/macmini/.gradle/caches/transforms-3/b3025078cfe66c94c12adb566d3bd88f/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:28:13-43
+260            android:exported="false"
+260-->[com.google.firebase:firebase-common:20.3.2] /Users/macmini/.gradle/caches/transforms-3/b3025078cfe66c94c12adb566d3bd88f/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:29:13-37
+261            android:initOrder="100" />
+261-->[com.google.firebase:firebase-common:20.3.2] /Users/macmini/.gradle/caches/transforms-3/b3025078cfe66c94c12adb566d3bd88f/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:30:13-36
+262
+263        <service
+263-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/macmini/.gradle/caches/transforms-3/f815df56e57ec21f42c7d225ccd4b329/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+264            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+264-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/macmini/.gradle/caches/transforms-3/f815df56e57ec21f42c7d225ccd4b329/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+265            android:exported="false" >
+265-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/macmini/.gradle/caches/transforms-3/f815df56e57ec21f42c7d225ccd4b329/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+266            <meta-data
+266-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/macmini/.gradle/caches/transforms-3/f815df56e57ec21f42c7d225ccd4b329/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+267                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+267-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/macmini/.gradle/caches/transforms-3/f815df56e57ec21f42c7d225ccd4b329/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+268                android:value="cct" />
+268-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/macmini/.gradle/caches/transforms-3/f815df56e57ec21f42c7d225ccd4b329/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+269        </service>
+270        <service
+270-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/macmini/.gradle/caches/transforms-3/c410a84de9efdb81ed9ffdc938d4c831/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+271            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+271-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/macmini/.gradle/caches/transforms-3/c410a84de9efdb81ed9ffdc938d4c831/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+272            android:exported="false"
+272-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/macmini/.gradle/caches/transforms-3/c410a84de9efdb81ed9ffdc938d4c831/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+273            android:permission="android.permission.BIND_JOB_SERVICE" >
+273-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/macmini/.gradle/caches/transforms-3/c410a84de9efdb81ed9ffdc938d4c831/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+274        </service>
+275
+276        <receiver
+276-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/macmini/.gradle/caches/transforms-3/c410a84de9efdb81ed9ffdc938d4c831/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+277            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+277-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/macmini/.gradle/caches/transforms-3/c410a84de9efdb81ed9ffdc938d4c831/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+278            android:exported="false" />
+278-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/macmini/.gradle/caches/transforms-3/c410a84de9efdb81ed9ffdc938d4c831/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+279        <receiver
+279-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:29:9-33:20
+280            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+280-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:30:13-85
+281            android:enabled="true"
+281-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:31:13-35
+282            android:exported="false" >
+282-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:32:13-37
+283        </receiver>
+284
+285        <service
+285-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:35:9-38:40
+286            android:name="com.google.android.gms.measurement.AppMeasurementService"
+286-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:36:13-84
+287            android:enabled="true"
+287-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:37:13-35
+288            android:exported="false" />
+288-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:38:13-37
+289        <service
+289-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:39:9-43:72
+290            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+290-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:40:13-87
+291            android:enabled="true"
+291-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:41:13-35
+292            android:exported="false"
+292-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:42:13-37
+293            android:permission="android.permission.BIND_JOB_SERVICE" />
+293-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/macmini/.gradle/caches/transforms-3/36d355d29e9b9c624e3af05a78d360d8/transformed/jetified-play-services-measurement-21.2.1/AndroidManifest.xml:43:13-69
+294
+295        <activity
+295-->[com.google.android.gms:play-services-auth:20.3.0] /Users/macmini/.gradle/caches/transforms-3/af9eb67262f8db77fb1013b354539a45/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:23:9-27:75
+296            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+296-->[com.google.android.gms:play-services-auth:20.3.0] /Users/macmini/.gradle/caches/transforms-3/af9eb67262f8db77fb1013b354539a45/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:24:13-93
+297            android:excludeFromRecents="true"
+297-->[com.google.android.gms:play-services-auth:20.3.0] /Users/macmini/.gradle/caches/transforms-3/af9eb67262f8db77fb1013b354539a45/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:25:13-46
+298            android:exported="false"
+298-->[com.google.android.gms:play-services-auth:20.3.0] /Users/macmini/.gradle/caches/transforms-3/af9eb67262f8db77fb1013b354539a45/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:26:13-37
+299            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+299-->[com.google.android.gms:play-services-auth:20.3.0] /Users/macmini/.gradle/caches/transforms-3/af9eb67262f8db77fb1013b354539a45/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:27:13-72
+300        <!--
+301            Service handling Google Sign-In user revocation. For apps that do not integrate with
+302            Google Sign-In, this service will never be started.
+303        -->
+304        <service
+304-->[com.google.android.gms:play-services-auth:20.3.0] /Users/macmini/.gradle/caches/transforms-3/af9eb67262f8db77fb1013b354539a45/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:33:9-37:51
+305            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+305-->[com.google.android.gms:play-services-auth:20.3.0] /Users/macmini/.gradle/caches/transforms-3/af9eb67262f8db77fb1013b354539a45/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:34:13-89
+306            android:exported="true"
+306-->[com.google.android.gms:play-services-auth:20.3.0] /Users/macmini/.gradle/caches/transforms-3/af9eb67262f8db77fb1013b354539a45/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:35:13-36
+307            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+307-->[com.google.android.gms:play-services-auth:20.3.0] /Users/macmini/.gradle/caches/transforms-3/af9eb67262f8db77fb1013b354539a45/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:36:13-107
+308            android:visibleToInstantApps="true" />
+308-->[com.google.android.gms:play-services-auth:20.3.0] /Users/macmini/.gradle/caches/transforms-3/af9eb67262f8db77fb1013b354539a45/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:37:13-48
+309
+310        <activity
+310-->[com.google.android.gms:play-services-base:18.0.1] /Users/macmini/.gradle/caches/transforms-3/f30ca8ca51fc24c15c38ec43afe721c2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+311            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+311-->[com.google.android.gms:play-services-base:18.0.1] /Users/macmini/.gradle/caches/transforms-3/f30ca8ca51fc24c15c38ec43afe721c2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+312            android:exported="false"
+312-->[com.google.android.gms:play-services-base:18.0.1] /Users/macmini/.gradle/caches/transforms-3/f30ca8ca51fc24c15c38ec43afe721c2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+313            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+313-->[com.google.android.gms:play-services-base:18.0.1] /Users/macmini/.gradle/caches/transforms-3/f30ca8ca51fc24c15c38ec43afe721c2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+314
+315        <meta-data
+315-->[com.google.android.gms:play-services-basement:18.1.0] /Users/macmini/.gradle/caches/transforms-3/be14ad333a100b120371f4f7d1a70549/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+316            android:name="com.google.android.gms.version"
+316-->[com.google.android.gms:play-services-basement:18.1.0] /Users/macmini/.gradle/caches/transforms-3/be14ad333a100b120371f4f7d1a70549/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+317            android:value="@integer/google_play_services_version" />
+317-->[com.google.android.gms:play-services-basement:18.1.0] /Users/macmini/.gradle/caches/transforms-3/be14ad333a100b120371f4f7d1a70549/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+318
+319        <provider
+319-->[androidx.emoji2:emoji2:1.0.0] /Users/macmini/.gradle/caches/transforms-3/41165d282ceb7b685ea044cd0e41ecbc/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+320            android:name="androidx.startup.InitializationProvider"
+320-->[androidx.emoji2:emoji2:1.0.0] /Users/macmini/.gradle/caches/transforms-3/41165d282ceb7b685ea044cd0e41ecbc/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+321            android:authorities="com.careusel.androidx-startup"
+321-->[androidx.emoji2:emoji2:1.0.0] /Users/macmini/.gradle/caches/transforms-3/41165d282ceb7b685ea044cd0e41ecbc/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+322            android:exported="false" >
+322-->[androidx.emoji2:emoji2:1.0.0] /Users/macmini/.gradle/caches/transforms-3/41165d282ceb7b685ea044cd0e41ecbc/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+323            <meta-data
+323-->[androidx.emoji2:emoji2:1.0.0] /Users/macmini/.gradle/caches/transforms-3/41165d282ceb7b685ea044cd0e41ecbc/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+324                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+324-->[androidx.emoji2:emoji2:1.0.0] /Users/macmini/.gradle/caches/transforms-3/41165d282ceb7b685ea044cd0e41ecbc/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+325                android:value="androidx.startup" />
+325-->[androidx.emoji2:emoji2:1.0.0] /Users/macmini/.gradle/caches/transforms-3/41165d282ceb7b685ea044cd0e41ecbc/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+326            <meta-data
+326-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/macmini/.gradle/caches/transforms-3/e9cc69df0155727eafa64279ee595322/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+327                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+327-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/macmini/.gradle/caches/transforms-3/e9cc69df0155727eafa64279ee595322/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+328                android:value="androidx.startup" />
+328-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/macmini/.gradle/caches/transforms-3/e9cc69df0155727eafa64279ee595322/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+329        </provider>
+330    </application>
+331
+332</manifest>

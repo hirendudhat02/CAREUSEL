@@ -1,0 +1,6 @@
+module Pods_Careusel {
+  umbrella header "Pods-Careusel-umbrella.h"
+
+  export *
+  module * { export * }
+}
